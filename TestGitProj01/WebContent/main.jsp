@@ -12,10 +12,6 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-	<ul>
-		<li>Git첫번째항목</li>
-		<li>두번째 항목 추가</li>
-		<li></li>
-	</ul> 
+	<h2>난 메인화면~</h2>
 </body>
 </html>
